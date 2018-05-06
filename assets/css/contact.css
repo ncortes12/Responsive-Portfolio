@@ -29,7 +29,9 @@
         
 textarea {margin-left:20px;}
 
-@media only screen and (max-width: 768px){
-textarea {margin-left:20px;
-width:70%;}
+@media only screen and (max-width: 980px){
+textarea {margin-left:25px;
+        margin-top:5px;
+        width:70%;}
+
 }
